@@ -130,3 +130,4 @@ dmypy.json
 
 # OSX
 .DS_Store
+custom_components/mqtt_device_clean/.vscode/launch.json
