@@ -25,7 +25,9 @@ Custom service for Home Assistant to:
 
 *HACS repo* add:
 
-Add `github.com/konnectedvn/hass_mqtt_device_clean` to your HACS custom repositories.
+Add `github.com/konnectedvn/hass_mqtt_device_clean` to your HACS custom repositories under Integration category.
+
+Search for `mqtt device clean` and install.
 
 *Manually install*:
 
@@ -44,7 +46,7 @@ Add line below inside your `/config/configuration.yaml`:
 
 1. Zigbee2mqtt:
 
-   - ask your device to leave: [remove device](https://www.zigbee2mqtt.io/information/mqtt_topics_and_message_structure.html#zigbee2mqttbridgeconfigremove)
+   - ask your device to leave: [zigbee2mqtt docs](https://www.zigbee2mqtt.io/information/mqtt_topics_and_message_structure.html#zigbee2mqttbridgeconfigremove)
 
    - remove your device from database.db (inside zigbee2mqtt data folder)
 
