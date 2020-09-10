@@ -4,6 +4,6 @@
   "documentation": "https://github.com/konnectedvn/hass_mqtt_device_clean/README.md",
   "issue_tracker": "https://github.com/konnectedvn/hass_mqtt_device_clean/issues",
   "dependencies": ["mqtt"],
-  "codeowners": ["konnect ED Vietnam"],
+  "codeowners": ["@konnectedvn"],
   "requirements": [""]
 }
