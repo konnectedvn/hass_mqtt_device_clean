@@ -1,7 +1,7 @@
 {
   "domain": "mqtt_device_clean",
   "name": "MQTT Device Remove and Clean",
-  "documentation": "https://github.com/konnectedvn/hass_mqtt_device_clean/README.md",
+  "documentation": "https://github.com/konnectedvn/hass_mqtt_device_clean",
   "issue_tracker": "https://github.com/konnectedvn/hass_mqtt_device_clean/issues",
   "dependencies": ["mqtt"],
   "codeowners": ["@konnectedvn"],
