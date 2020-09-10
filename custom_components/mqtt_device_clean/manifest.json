@@ -1,6 +1,6 @@
 {
   "domain": "mqtt_device_clean",
-  "name": "Remove MQTT auto-discovery device and Clean all discovery topics",
+  "name": "MQTT Device Remove and Clean",
   "documentation": "https://github.com/konnectedvn/hass_mqtt_device_clean/README.md",
   "issue_tracker": "https://github.com/konnectedvn/hass_mqtt_device_clean/issues",
   "dependencies": ["mqtt"],
