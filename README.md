@@ -23,7 +23,11 @@ Custom service for Home Assistant to:
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 
-Manually install:
+*HACS repo* add:
+
+Add `github.com/konnectedvn/hass_mqtt_device_clean` to your HACS custom repositories.
+
+*Manually install*:
 
 1. Create `mqtt_device_clean` folder inside your Home Assistant's`config/custom_components` (create new `custom_components` if not exists)
 2. Copy all files inside `github.com/konnectedvn/hass_mqtt_device_clean/custom_components/mqtt_device_clean/` to new created `mqtt_device_clean` 
