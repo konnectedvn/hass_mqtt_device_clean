@@ -42,7 +42,7 @@ Add line below inside your `/config/configuration.yaml`:
 
    - ask your device to leave:
 
-   []: https://www.zigbee2mqtt.io/information/mqtt_topics_and_message_structure.html#zigbee2mqttbridgeconfigremove	"Remove device"
+   [Remove device]: https://www.zigbee2mqtt.io/information/mqtt_topics_and_message_structure.html#zigbee2mqttbridgeconfigremove
 
    - remove your device from database.db (inside zigbee2mqtt data folder)
 
