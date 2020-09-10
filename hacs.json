@@ -1,5 +1,6 @@
 {
   "name": "MQTT Device Clean",
   "render_readme": false,
-  "content_in_root": false
+  "content_in_root": false,
+  "filename": "mqtt_device_clean.zip"
 }
